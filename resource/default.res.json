@@ -1,0 +1,25 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,mask_png,dom_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/mask.png",
+			"type": "image",
+			"name": "mask_png"
+		},
+		{
+			"url": "assets/dom.png",
+			"type": "image",
+			"name": "dom_png"
+		}
+	]
+}
